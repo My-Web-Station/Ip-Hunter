@@ -1,0 +1,12 @@
+.Maps {
+  height: 100vh;
+  position: relative;
+  top: 100px;
+  z-index: 1;
+}
+
+@media (min-width: 280px) and (max-width: 1026px) {
+  .Maps {
+    height: calc(100vh - 1px);
+  }
+}

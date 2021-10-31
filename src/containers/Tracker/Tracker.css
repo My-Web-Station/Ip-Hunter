@@ -1,0 +1,7 @@
+.Tracker {
+  background-image: url(../../assets/pattern-bg.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 350px;
+  z-index: 100;
+}
